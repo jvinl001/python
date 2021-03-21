@@ -1,0 +1,2 @@
+# python
+teaching myself python
